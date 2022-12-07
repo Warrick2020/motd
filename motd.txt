@@ -1,2 +1,2 @@
-Added motd, and a dome to horror
+Added motd, and a roof to horror
 fixed the monster
