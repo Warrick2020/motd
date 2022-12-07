@@ -1,2 +1,2 @@
-test
-test2
+Added motd, and night time to horror
+fixed the monster
