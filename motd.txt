@@ -1,2 +1,2 @@
-Added motd, and night time to horror
+Added motd, and a dome to horror
 fixed the monster
